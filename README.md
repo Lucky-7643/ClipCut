@@ -27,11 +27,11 @@ You need Python 3.10 or newer and `ffmpeg`. On Windows: `winget install Gyan.FFm
 On Linux: `sudo apt install ffmpeg`. Clip Cut finds it by itself and tells you in the dashboard if it is missing.
 
 ```bash
-git clone <this repository> peakcut
+git clone https://github.com/Lucky-7643/ClipCut.git clipcut
 ```
 
 ```bash
-cd peakcut
+cd clipcut
 ```
 
 ```bash
